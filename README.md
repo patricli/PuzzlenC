@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Puzzles and Conquest Mobile Game
 
-You can use the [editor on GitHub](https://github.com/patricli/PuzzlenC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The once glorious Saurland was fallen under the Undead Army's attack.
+Darkness and flames follow their path of carnage; their reign of terror devoured all hope.
+The dead were brought back to life, and the horrific legion expands.
+The whole continent is on the brink of destruction.
+Humans, Elves, Dwarves, and all the other races laid aside their differences to form an alliance for their survival.
+Yet, they await an extraordinary leader to take charge against the army of evil.
+Lead them with your capable hands and strategic mind!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Vailant Conquest
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Valiant Conquest is a KvK event ocurring every two weeks.  **All troops killed by other Kingdoms during the event are automatically healed once the event ends.**  However, attacks from other players in the same kingdom or Hell's Fortress casualties go into the normal infirmary.
 
 ```markdown
 Syntax highlighted code block
